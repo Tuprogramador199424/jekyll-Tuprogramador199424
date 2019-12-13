@@ -1,0 +1,4 @@
+# Fichero .gitignore
+# Aquí puedes poner nombres de ficheros o expresiones regulares
+# para que git los ignore completamente aunque tengan cambios.
+_site
