@@ -1,0 +1,15 @@
+<header>
+    <nav>
+        <ul>  
+            {% for menu in site.data.navigation %}
+            <li><a href="{{ site.baseurl}}{{ menu.link }}" {% if page.url == menu.link %} style="color : red; " {% endif %}>
+            {{menu.name}}
+            </a></li>
+        {% endfor %}
+        </ul>
+    </nav>
+
+    <nav>
+        
+    </nav> 
+</header>

@@ -1,0 +1,22 @@
+---
+title: Programas
+layout: default
+---
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>{{page.title}}</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body> 
+        <section>
+            {% for posts in site.posts %} 
+            <article>
+                <p>{{posts.excerpt}}</p>           
+            </article>
+            {% endfor %}
+        </section>
+        
+        
+    </body>
+</html>

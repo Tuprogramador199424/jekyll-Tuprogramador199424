@@ -1,0 +1,56 @@
+I"�<h1 id="pro-tools-12">Pro tools 12</h1>
+
+<p><img src="/assets/images Ableton" alt="" />
+Pro Tools es una estación de trabajo de audio digital o DAW (Digital Audio Workstation), plataforma de grabación, edición y mezcla multipista de audio y midi, que integra hardware y software. Es considerado un estándar de grabación, edición y mezcla en estudios profesionales y postproducción, usado mundialmente. Su alternativa libre más popular es Ardour.</p>
+
+<p>Puede funcionar como software independiente con la tarjeta de sonido que se desee, u operar usando conversores externos y tarjetas de audio internas PCI, PCI-X o PCIe, ya estén equipadas con chips DSP o no (en el caso de la serie Native). También existe una versión externa de la serie Native que se conecta mediante una conexión Thunderbolt.</p>
+
+<p>La empresa Avid (anteriormente bajo la denominación de DIGIDESIGN), es la que lo desarrolla. Además, elabora algunos de los mejores softwares y hardware de audio del mercado, por lo que su calidad y sólida fiabilidad son ampliamente reconocidos. Esto ha llevado a este potente software de producción musical y postproducción audiovisual a convertirse en uno de los referentes de esta industria.</p>
+
+<p><img src="/assets/images Ableton2" alt="" /></p>
+
+<p>El estigma de Pro Tools era que sólo podía usarse con un hardware específico, y no admitía otras marcas, pero desde la versión 7 y tras la adquisición de M-audio por parte de Avid, se abrió el código del software para poder ser utilizado con interfaces de audio de la empresa M-Audio (anteriormente Midiman). Actualmente, desde la versión 9, admite hardware de cualquier marca siempre y cuando maneje el driver de tipo ASIO para los ordenadores de Microsoft y el driver CORE AUDIO para los Macintosh; así mismo, el resto de componentes de ambos ordenadores también tienen que ser compatibles. Para ello, podemos encontrar un listado de compatibilidades técnicas en la misma página web de AVID.</p>
+
+<p><img src="/assets/images Ableton3" alt="" /></p>
+
+<p>Las principales características de Pro tools 12:</p>
+<ul>
+  <li>Crea mezclas masivas</li>
+  <li>Consigue el mejor sonido posible</li>
+  <li>Colabora en la nube</li>
+  <li>Edita audio con facilidad</li>
+  <li>Mezcla y automatiza audio multicanal</li>
+  <li>Asume el control de tu mezcla</li>
+  <li>Impulsa tu creatividad con plugins profesionales</li>
+  <li>Conéctate y comparte tu trabajo</li>
+  <li>Crea tu música</li>
+  <li>Consigue inspiración y crea pistas con rapidez</li>
+  <li>Trabaja con recursos MIDI y de notación</li>
+  <li>Crea y mezcla audio para postproducción</li>
+  <li>Trabaja con sonido para cine o televisión</li>
+  <li>Mezcla en Dolby Atmos</li>
+  <li>Editar y mezclar audio de realidad virtual</li>
+  <li>Graba ADR y Foley</li>
+  <li>Diseña sonidos y paisajes sonoros</li>
+  <li>Aplica efectos en tiempo real a los clips</li>
+  <li>Conecta equipos con Avid NEXIS</li>
+  <li>
+    <p>Colabora en proyectos de vídeo
+Las principales características de Avid Cloud Collaboration para Pro Tools son:</p>
+  </li>
+  <li>Segura y sencilla configuración: Sube una sesión a tu propio espacio en la nube e invita a los demás a colaborar.</li>
+  <li>Colaboración totalmente integrada: Trabaja en la misma sesión y al mismo tiempo o crea offline y comparte actualizaciones directamente en Pro Tools.</li>
+  <li>Workflows optimizado: Comparte pistas de audio y MIDI, ediciones, cambios de mezcla, automatizaciones y más.</li>
+  <li>Administración de proyectos y medios simplificada: mantente informado de todos los contribuidores y cambios de versión con un completo, automático y configurable etiquetado de todos los metadatos.</li>
+  <li>Herramientas de comunicación incorporada: Conecta con tus colaboradores desde el mismo Pro Tools via texto o video con el canal de chat incorporado.</li>
+</ul>
+
+<p>Requisitos del sistema:</p>
+<ul>
+  <li>Procesador: dual core a 2.7 GHz.</li>
+  <li>Memoria RAM: 2 GB’s (32 bits) 4 GB’s (64 bits).</li>
+  <li>Video: NVIDIA</li>
+  <li>Sistema Operativo: Windows 7 SP1 (home Premium, profesional, ultimate) Yo te recomiendo el home Premium, ya que con ultimate nunca lo pude hacer funcionar.</li>
+  <li>Interface de Audio (otra marca) compatible con drivers ASIO.</li>
+</ul>
+:ET

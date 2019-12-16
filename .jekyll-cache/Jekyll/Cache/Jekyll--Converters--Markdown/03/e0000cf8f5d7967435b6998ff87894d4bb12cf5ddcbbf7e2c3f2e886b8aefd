@@ -1,0 +1,51 @@
+I"�<h1 id="fl-studio-20">Fl Studio 20</h1>
+
+<p><img src="/assets/images/cubase.jpg" alt="Fl Studio" />
+FL Studio (antiguamente Fruity Loops) es una estación de audio digital(DAW), desarrollado por la compañía belga Image-line Software.
+FL Studio ofrece un espacio de trabajo automatizable centrado en un secuenciador basado en patrones. Su ambiente incluye un soporte avanzado de MIDI e incorpora numerosas utilidades para la edición, mezcla y grabación de audio. Cuando se completa una canción o clip, este puede ser exportado a microsoft WAV o MP3.</p>
+
+<p>Desde la versión 7, FL Studio empezó a soportar el formato OGG Vorbis de código abierto para algunos de sus plugins internos, y a partir de la reciente versión 8 lo soporta como formato nativo (para importar/exportar).</p>
+
+<p>FL Studio guarda sus trabajos en su formato nativo .FLP (Fruity Loops Project) el cual suele tener conflictos con los proyectos de Adobe Flash con la misma extensión.</p>
+
+<p><img src="/assets/images FL Studio 20 2" alt="" /></p>
+
+<p>La herramienta contiene un secuenciador, varios sintetizadores, librerías de samples, cajas de ritmo, etc. Este permite al artista crear música basada en Patrones, usando el Step Sequencer o la vista de Piano Roll, para posteriormente organizarlos en la ventana “playlist”.</p>
+
+<p>El panel de efectos ubicado en el mezclador (mixer) da acceso a una gran variedad de software de efectos, cuyas perillas y faders pueden ser automatizados</p>
+
+<p>Características de la edición Producer de FL Studio:</p>
+
+<ul>
+  <li>La edición Producer es ideal para la creación completa de canciones y grabación de micro.</li>
+  <li>Permite clips de audio (longitud de pista de audio editable).</li>
+  <li>Permite la grabación de audio.</li>
+  <li>Permite la automatización de Clips.</li>
+  <li>Clips de patrones (notas MIDI y automatización de eventos).</li>
+  <li>Permite importar y exportar ficheros MIDI.</li>
+  <li>Entrada para teclados y controladores.</li>
+  <li>Funciones MIDI SysEX y MMC.</li>
+  <li>Permite hasta 103 pistas de inserción/envio.</li>
+  <li>10 slots de FX por pista.</li>
+  <li>Patcher FX extension / rack.</li>
+  <li>Completo ruteo de pistas de audio y side chaining.</li>
+  <li>Secuenciador por pasos.</li>
+  <li>Función Piano roll.</li>
+  <li>Editor de eventos.</li>
+  <li>Soporta Directsound.</li>
+  <li>Soporte ASIO (incluye ASIO4ALL).</li>
+  <li>103 entradas de audio externas.</li>
+  <li>103 salidas de audio externas.</li>
+  <li>Permite renderizar en ficheros .WAV, .MP3 y .OGG</li>
+  <li>Permite explorar el mezclador a stems.</li>
+</ul>
+
+<p>Requisitos del sistema:</p>
+<ul>
+  <li>Procesador de 2 Ghz Intel Pentium 4 / AMD Athlon 64 o superior.</li>
+  <li>Sistema Operativo Windows 10/8.0/8.1/7 de 32 o 64 bits.</li>
+  <li>Por lo menos 1 GB de memoria RAM (Se recomienda 2 GB)</li>
+  <li>1 GB de espacio libre en el disco duro para la instalación.</li>
+  <li>Tarjeta de Sonido con drivers DirectSound.</li>
+</ul>
+:ET
