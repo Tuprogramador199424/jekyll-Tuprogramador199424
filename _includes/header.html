@@ -1,15 +1,13 @@
 <header>
     <nav>
-        <ul>  
+        <ul class="menu">  
             {% for menu in site.data.navigation %}
-            <li><a href="{{ site.baseurl}}{{ menu.link }}" {% if page.url == menu.link %} style="color : red; " {% endif %}>
+            <li ><a href="{{ site.baseurl}}{{ menu.link }}" {% if page.url == menu.link %} style="color : #FF8C00; " {% endif %}>
             {{menu.name}}
             </a></li>
         {% endfor %}
         </ul>
     </nav>
+    <div class="salto"></div>    
 
-    <nav>
-        
-    </nav> 
 </header>
